@@ -1,0 +1,12 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ABIOLA/Desktop/Lab_5_Parameterizable_Multiplier/Lab_5_Parameterizable_Multiplier.srcs/sources_1/new/Parameterizable_Multiplier.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Parameterizable_Multiplier'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ABIOLA/Desktop/Lab_5_Parameterizable_Multiplier/Lab_5_Parameterizable_Multiplier.srcs/sources_1/new/Ripple_Carry_Adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Ripple_Carry_Adder'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ABIOLA/Desktop/Lab_5_Parameterizable_Multiplier/Lab_5_Parameterizable_Multiplier.srcs/sim_1/new/Parameterizable_Multiplier_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Parameterizable_Multiplier_tb'
+WARNING: [VRFC 10-3711] signal 'data_width_mul' is used in subtype-indication/type-definition [C:/Users/ABIOLA/Desktop/Lab_5_Parameterizable_Multiplier/Lab_5_Parameterizable_Multiplier.srcs/sim_1/new/Parameterizable_Multiplier_tb.vhd:25]
+WARNING: [VRFC 10-3711] signal 'data_width_mul' is used in subtype-indication/type-definition [C:/Users/ABIOLA/Desktop/Lab_5_Parameterizable_Multiplier/Lab_5_Parameterizable_Multiplier.srcs/sim_1/new/Parameterizable_Multiplier_tb.vhd:26]
+WARNING: [VRFC 10-3711] signal 'data_width_mul' is used in subtype-indication/type-definition [C:/Users/ABIOLA/Desktop/Lab_5_Parameterizable_Multiplier/Lab_5_Parameterizable_Multiplier.srcs/sim_1/new/Parameterizable_Multiplier_tb.vhd:27]
+WARNING: [VRFC 10-3711] signal 'data_width_mul' is used in subtype-indication/type-definition [C:/Users/ABIOLA/Desktop/Lab_5_Parameterizable_Multiplier/Lab_5_Parameterizable_Multiplier.srcs/sim_1/new/Parameterizable_Multiplier_tb.vhd:30]
+WARNING: [VRFC 10-3711] signal 'data_width_mul' is used in subtype-indication/type-definition [C:/Users/ABIOLA/Desktop/Lab_5_Parameterizable_Multiplier/Lab_5_Parameterizable_Multiplier.srcs/sim_1/new/Parameterizable_Multiplier_tb.vhd:31]
+WARNING: [VRFC 10-3711] signal 'data_width_mul' is used in subtype-indication/type-definition [C:/Users/ABIOLA/Desktop/Lab_5_Parameterizable_Multiplier/Lab_5_Parameterizable_Multiplier.srcs/sim_1/new/Parameterizable_Multiplier_tb.vhd:32]

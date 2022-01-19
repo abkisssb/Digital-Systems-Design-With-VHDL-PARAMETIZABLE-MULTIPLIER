@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Parameterizable_Multiplier.srcs/sources_1/new/Ripple_Carry_Adder.vhd" \
+"../../../../Parameterizable_Multiplier.srcs/sources_1/new/Parameterizable_Multiplier.vhd" \
+
+# Do not sort compile order
+nosort
